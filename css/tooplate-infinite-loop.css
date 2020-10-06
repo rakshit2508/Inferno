@@ -131,7 +131,13 @@ blockquote {
   background-color:#212529;
   border-radius: 8px;
 }
-
+.logo{
+  color: #FFF;
+  background-color:#212529;
+  border-radius: 8px;
+  margin-left: 0%;
+  padding-left: 0%;
+}
 .navbar-toggler {
   border: 1px solid white;
   padding-left: 10px;
@@ -707,4 +713,6 @@ p {
   .tm-gallery-item {
     margin: 0;
   }
+ 
+  
 }
