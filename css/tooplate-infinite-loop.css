@@ -281,6 +281,14 @@ blockquote {
 .tm-continue {
 	padding: 20px 0 30px 0;
 }
+.details
+{
+  border-radius: 4px;
+}
+.details:hover
+{
+  background: red;
+}
 
 /* Testimonials */
 #testimonials {
