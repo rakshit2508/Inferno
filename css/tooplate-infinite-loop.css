@@ -16,6 +16,10 @@ body {
   padding: 0;
   overflow-x: hidden;
 }
+html
+{
+  scroll-behavior: smooth;
+}
 a {
   transition: all 0.3s ease;
   color: #38B;

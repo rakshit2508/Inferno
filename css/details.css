@@ -1,0 +1,113 @@
+html, body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+    min-width: 260px;
+    color: #333;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+#main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #eee;
+    display: block;
+}
+
+#title {
+  
+  font-size:3em;
+  display:block;
+  color:rebeccapurple;
+  
+}
+#titles {
+    color:black;
+    font-size:2em;
+    display:block;
+    font-variant: small-caps;
+    text-decoration: underline;
+    
+  }
+
+#img-div {
+    margin: -5px;
+    margin-top: 20px;
+    width: 100%;
+    border: 5px solid white;
+    background: white;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border: 0px solid white;
+}
+
+#img-caption {
+    margin: 15px;
+}
+
+ul {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li {
+    margin: 10px;
+}
+
+tribute-info ul {
+    display: block;
+    list-style-type: disc;
+}
+
+blockquote {
+  display: block;
+  padding-top: 40px;
+  max-width: 70%;
+  Margin:0 auto;
+}
+
+#references {
+  display:block;
+  max-width: 800px;
+  margin:0 auto;
+}
+
+#references ul {
+  display: block;
+  list-style-type: disc;
+  max-width: 800px;
+  margin: 5px auto;
+  padding: 10px;
+  text-align: left;
+}
+.quote-author {
+  
+}
+h3 {
+  display: block;
+  max-width: 800px;
+  margin: 30px auto;
+  font-size: 1.5em;
+}
+#youtube {
+  max-width:960px;
+  max-height:600px;
+  margin:0 auto;
+  padding: 30px 0;
+}
