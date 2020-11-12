@@ -33,7 +33,7 @@ h1 {
 }
 #title2 {
   
-  font-size:1.5vw;
+  font-size:1em;
   display:block;
   color:rebeccapurple;
   text-decoration: underline;
@@ -46,20 +46,22 @@ h1 {
     font-variant: small-caps;
     text-decoration: underline;
     
+    
   }
   #titles1 {
-    color:red;
-    font-size:3vw;
+    color:#3498db;;
+    font-size:1.5em;
     display:block;
-    font-variant: small-caps;
+    
     border-style: solid;
     
   }
   
   .demo:hover
   {
-    background:red;
+    background:blue;
   }
+  
 
 #img-div {
     margin: -5px;
